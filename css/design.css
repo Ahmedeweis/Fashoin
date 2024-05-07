@@ -576,8 +576,8 @@ button {
   flex-direction: row-reverse;
 }
 .star-area-overwrite {
-  right: -25px;
-  bottom: 600px;
+  right: -150px;
+  bottom: 522px;
 }
 @media (max-width: 992px) {
   .land-con-over {
@@ -586,6 +586,15 @@ button {
 }
 .land-img-over {
   border-radius: 0;
+}
+.star-area-overwriteII {
+  left: 0;
+  bottom: 30px;
+  right: 186px;
+  justify-content: start;
+}
+.land-con-overII{
+  flex-basis: 100%;
 }
 /* 1 copy of land */
 
